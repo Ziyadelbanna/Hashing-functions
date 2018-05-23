@@ -5,7 +5,7 @@ public class Main {
 
         File file = new File("/home/sami/IdeaProjects/Hash/src/test.txt");
         parseFile test = new parseFile(file);
-
+   
 //        squareHashing hash = new squareHashing(test.getKeyList());
 //        hash.generateHashTable();
 //        for (int i = 1 ; i < 200 ; i ++){
